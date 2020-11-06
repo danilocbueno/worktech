@@ -1,0 +1,199 @@
+{
+	"palestrantes":[
+
+		{
+			"nome":"Sidney Vieira",
+			"about":"Especialista  em Gestão de Estratégica de Negócios Atua na Empresa Smart Soluções Empresariais",
+			"file":"sidney_vieira.png"
+		},
+		{
+			"nome":"Paulo Rogerio Massoni",
+			"about":"Doutor em Ciências - Energia Nuclear na Agricultura e no Ambiente, Prof. do IFSP/Itapetininga",
+			"file":"paulo_massoni.png"
+		},
+		{
+			"nome":"Elidiane Cipriano Rangel",
+			"about":"Doutora em Física e Prof.ª na UNESP-Sorocaba",
+			"file":"elidiane_cipriano.png"
+		},
+		{
+
+			"nome":"Jonny Nelson Teixeira",
+			"about":"Doutor em Ensino de Ciências e Prof. do IFSP Campus Itapetininga",
+			"file":"jonny_nelson.png"
+		},
+		{
+			"nome":"Paulo Henrique Correia",
+			"about":"Mestre em Ensino de Matemática e Prof. do IFSP Campus Itapetininga",
+			"file":"paulo_henrique.png"
+		},
+		{
+			"nome":"Hamilton Piva Dominguez",
+			"about":"Doutor em Educação e Prof. do IFSP Campus Guarulhos",
+			"file":"default.png"
+		},
+		{
+			"nome":"Gustavo José Lauer Coppio",
+			"about":"Graduado em Engenharia Civil e Prof. do IFSP Campus Itapetininga",
+			"file":"gustavo_lauer.png"
+		},
+		{
+			"nome":"Élcio de Souza Lopes",
+			"about":"Mestre em Ensino de Física e Prof. na Escola Estadual Paulo Mendes da Silva",
+			"file":"default.png"
+		},
+		{
+			"nome":"Fabiano Ionta Andrade Silva",
+			"about":"Mestre em Energia e Prof. do IFSP Campus Hortolândia",
+			"file":"fabiano_ionta.png"
+		},
+		{
+			"nome":"Rita de Cássia Cipriano Rangel",
+			"about":"Doutora em Ciência e Tecnologia de Materiais e Profª. do IFSP Campus Itapetininga",
+			"file":"rita_rangel.png"
+		},
+		{
+			"nome":"Leonardo Taborda Sandor",
+			"about":"Doutorado em Engenharia Mecânica, Atua na Empresa Villares Metals",
+			"file":"leonardo_sandor.png"
+		},
+		{
+			"nome":"Roger Oppelt",
+			"about":"Graduado em Administração de Empresas Atua na Empresa Shimadzu do Brasil",
+			"file":"roger_oppelt.png"
+		},
+		{
+			"nome":"Alberto Luís Dario Moreau",
+			"about":"Doutor em Física Prof. do IFSP Campus Itapetininga",
+			"file":"alberto_moreau.png"
+		},
+		{
+			"nome":"Emanuel Benedito de Melo",
+			"about":"Doutor em Ciência e Tecnologia de Materiais e Prof. do IFSP Campus Itapetininga",
+			"file":"emanuel_melo.png"
+		},
+		{
+			"nome":"Valter César Montanher",
+			"about":"Doutor em Educação e Prof. do IFSP Campus Piracicaba",
+			"file":"valter_montanher.png"
+		},
+		{
+			"nome":"Luís Augusto Alves",
+			"about":"Doutor em Ensino de Ciências e Prof. do IFSP Campus São Paulo",
+			"file":"luis_alves.png"
+		},
+		{
+			"nome":"Carolina Mandarini Dias", 
+			"about":"Doutora em Ensino de Ciências e Matemática e Técnica em Assuntos Educacionais do IFSP Campus Itapetininga",
+			"file":"carolina_dias.png"
+		},
+		{
+			"nome":"Paula Garcia Meirelles Grassi",
+			"about":"Doutora em Agronomia Profª. do IFSP/Itapetininga",
+			"file":"paula_grassi.png"
+		},
+		{
+			"nome":"Ivan Fortunato",
+			"about":"Doutor em Geografia e Prof. do IFSP Campus Itapetininga",
+			"file":"ivan_fortunato.png"
+		},
+		{
+			"nome":"Regiani Zornetta",
+			"about":"Mestre em Ciências Sociais e Profª. do IFSP Campus Itapetininga",
+			"file":"regiani_zornetta.png"
+		},
+		{
+			"nome":"João Aparecido Estevão",
+			"about":"Técnico em Edificações",
+			"file":"default.png"
+		},
+		{
+			"nome":"Fábio Raia",
+			"about":"Doutor em Tecnologia de Reatores e Prof. do Mackenzie/SP",
+			"file":"fabio_raia.png"
+		},
+		{
+			"nome":"Jean Pierre Garcia",
+			"about":"Doutor em Engenharia Mecânica Prof. do Mackenzie/SP",
+			"file":"jean_garcia.png"
+		},
+		{		
+			"nome":"André Ariovaldo",
+			"about" : "Especialista em Changework Applications Atua na Empresa Comportar Treinamentos",
+			"file":"andre_ariovaldo.png"
+		},
+		{
+			"nome":"Carla Cristina Pompeu",
+			"about":"Doutora em Doutora em Ensino de Ciências e Matemática e Profª. da UFMT/MG",
+			"file":"carla_pompeu.png"
+		},
+		{
+			"nome":"Emerson Ferreira Gomes",
+			"about":"Doutor em Ensino de Ciências Prof. do IFSP Campus Boituva",
+			"file":"emerson_gomes.png"
+		},
+		{
+			"nome":"Mikiya Muramatsu",
+			"about":"Doutor em Física e Prof. do IFSP/São Paulo",
+			"file":"mikiya_muramatsu.png"
+		},
+		{
+			"nome":"Vinícius de Castro Nunes de Siqueira",
+			"about":"Doutor em Matemática Aplicada e Prof. do IFSP Campus Itapetininga",
+			"file":"vinicius_siqueira.png"
+		},
+		{
+			"nome":"Cristiane de Moraes Gomes ",
+			"about":"Graduação em Arquitetura e Urbanismo e Atua no desenvolvimento de projetos arquitetônicos e interiores",
+			"file":"cristiane_gomes.png"
+		},
+		{
+			"nome": "Wilton Moreira Ferraz Júnior",
+			"about":"Mestre em Ciência da Computação  e Prof. do IFSP Campus Itapetininga",
+			"file":"wilton_junior.png"
+		},
+		{
+			"nome" :"Guilherme Andolfatto Libanori",
+			"about":"Doutor em Educação Prof. do IFSP Campus Matão",
+			"file":"guilherme_libanori.png"
+		},
+		{
+			"nome":"Sander Gabaldo",
+			"about":"Mestre em Engenharia Mecânica e Atua na Empresa Walter Tools",
+			"file":"sander_gabaldo.png"
+		},
+		{
+			"nome":"Gustavo Marino",
+			"about":"Atua na Empresa Siemens",
+			"file":"gustavo_marino.png"
+		},
+		{
+			"nome":"Vicente Pereira de Barros",
+			"about":"Doutor em Física e Prof. do IFSP Campus Itapetininga",
+			"file":"vicente_barros.png"
+		},
+		{
+			"nome":"Matheus Moreira Costa",
+			"about":"Mestre em Matemática e Prof. do IFSP Campus Itapetininga",
+			"file":"matheus_costa.png"
+		},
+		{
+			"nome":"Marco Antônio Nardin França",
+			"about":"Graduado em Engenharia Civil, atua na Empresa Andrade Guitierrez",
+			"file":"marco_franca.png"
+		},
+		{
+			"nome":"Leonardo Fávero",
+			"about":"Atua na Empresa Emerson Climate Technologies Brasil",
+			"file":"leonardo_favero.png"
+		},
+		{
+			"nome":"Carlos Alberto Sato",
+			"about":"Graduado em Matemática, Prof. do IFSP Campus Itapetininga",
+			"file":"default.png"
+		}
+	]
+}
+
+
+

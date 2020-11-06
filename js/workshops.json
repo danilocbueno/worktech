@@ -1,0 +1,134 @@
+{
+	"17 de Outubro":[
+		{
+			"9:00 - 10:00":[{
+				"titulo":"Abertura I EREFis",
+				"palestrante":"Prof. Dr. Emanuel Benedito de Melo",
+				"local":"Auditório de Informática"
+
+			},
+			{
+				"titulo":"Aprendizagem e Motivação: alimentos para o cérebro",
+				"palestrante":"Prof. Dr. Paulo Rogério Massoni",
+				"local":"Auditório de Informática"				
+			}
+		],
+
+			"10:00 - 10:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+
+			],
+			"10:30 - 12:00":[
+				{
+					"titulo":"Tratamento a Plasma no ajuste das Propriedades Físicas da Superfície de Materiais",
+					"palestrante":"Prof. Dra. Elidiane Cipriano Rangel",
+					"local":"Auditório de Informática"
+				}
+			],
+			"12:00 - 13:30":[
+				{
+					"titulo":"Almoço",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"13:30 - 15:00" : [
+				{
+					"titulo":"Oficina: Instrumentos Musicais no Ensino de Física",
+					"palestrante":"Prof. Dr. Jonny Nelson ",
+					"local":"Sala 62"
+
+				}
+			],
+			"15:00 - 15:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"15:30 - 17:00":[
+				{
+					"titulo":"Oficina: Óptica e Instrumentos Òpticos",
+					"palestrante":"Prof. Dr. Jonny Nelson",
+					"local":"Sala 62"
+				}
+			],
+			"17:00 - 19:00":[
+				{
+					"titulo":"Jantar",
+					"palestrante":"",
+					"local":""	
+				}
+			],
+			"19:00 - 19:15":[
+				{
+					"titulo":"Abertura I SEIFI",
+					"palestrante":"Prof. Dr. Mário Nunes",
+					"local":"Auditório de Mecânica"	
+				},
+				{
+					"titulo":"Abertura I SEMatIFI",
+					"palestrante":"Prof. Me. Paulo Henrique Correia A. da Cruz",
+					"local":"Auditório de Informática"	
+				}
+
+			],
+			"19:15 - 20:15":[
+				{
+					"titulo":"Fratura dos Metais",
+					"palestrante":"Leonardo Taborda Sandor",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Matemática e a Filosofia",
+					"palestrante":"Prof. Dr. Hamilton Piva",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Dois Casos Históricos de Contaminação Ambiental nos EUA: love canal e times beach",
+					"palestrante":"Prof. Gustavo José Lauer Coppio",
+					"local":"Sala 517 - Edificações"
+				},
+				{
+					"titulo":"Cultura Maker no Ensino de Ciências",
+					"palestrante":"Prof. Me. Élcio de Souza Lopes",
+					"local":"Sala 516 - Edificações"
+				}
+			],
+			"20:15 - 20:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"20:30 - 22:00":[
+				{
+					"titulo":"Modelagem Matemática no Planejamento Energético: um modelo de insumo produto",
+					"palestrante":"Prof. Dr. Fabiano Ionta",
+					"local":"Auditório de Informática"	
+				},
+				{
+					"titulo":"Caracterização de Materiais Metálicos",
+					"palestrante":"Roger Oppelt",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Resistência à Corrosão do Aço-Carbono Tratado a Plasma ",
+					"palestrante":"Dra. Rita Cipriano Rangel",
+					"local":"Sala 516 - Edificações"
+				}
+			]
+
+		}
+
+	]
+
+
+
+}

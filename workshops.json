@@ -1,0 +1,468 @@
+{
+	"16-de-outubro":[
+		{
+			"10:00 - 12:00":[
+				{
+					"titulo":"Introdução à Internet das Coisas com Raspberry Pi",
+					"palestrante":"Prof. Anderson Bernardo de Almeida (IFSP Itapetininga)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Aplicações da Web Progressivas e o desenvolvimento móvel",
+					"palestrante":"Prof. Me. Danilo Camargo Bueno (IFSP Itapetininga)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Sorteio de Brindes",
+					"palestrante":"",
+					"local":"Auditório de Informática"
+				}
+			],
+			"13:30 - 15:00":[
+				{
+					"titulo":"Engenharia de Software",
+					"palestrante":"Prof. Me. Andréia Rodrigues Casare (FATEC Itapetininga)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"O uso da resistividade elétrica do concreto para a avaliação do risco de corrosão e do desempenho das estruturas",
+					"palestrante":"Prof. Me. Gustavo José Lauer Coppio (IFSP Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"
+				}
+			],
+			"15:30 - 17:00":[
+				{
+					"titulo":"Desenvolvimento de jogos - Conhecendo o Unity",
+					"palestrante":"Prof. Julio Matheus (IFSP Itapetininga)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Sorteio de Brindes",
+					"palestrante":"",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Sistema Construtivo Inovador",
+					"palestrante":"Cerâmica Vasatex",
+					"local":"Sala 516 – Bloco de Edificações"
+				},
+				{
+					"titulo":"As Novas Tecnologias em Construção Civil: os objetivos e as metas para o futuro",
+					"palestrante":"Prof. Me. Engº Ambiental Paulo Paiva Oliveira Leite Dyer",
+					"local":"Sala 517 – Bloco de Edificações"
+				}
+			],			
+			"19:00 - 20:30":[
+				{
+					"titulo":"Abertura II SEIFI",
+					"palestrante":"Prof. Dr. Mário Nunes (IFSP-Itapetininga)",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Abertura II SeMatIF",
+					"palestrante":"Prof. Me. Paulo Henrique C. A. da Cruz (IFSP Itapetininga)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Educação Financeira –Espaços e possibilidades para as aulas de Matemática",
+					"palestrante":"Profa. Me. Ana Karina Cancian Baroni (IFSP Capivari)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"A análise de resiliência de sistemas complexos de engenharia - O projeto de um Itapetiningano na NASA",
+					"palestrante":"Prof Dr. José Alexandre Matelli (UNESP Guaratinguetá)",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Sistemas de Metrologia Aplicada na Indústria Moderna",
+					"palestrante":"GERO SISTEMA de CONFIABILIDADE METROLÓGICA",
+					"local":"Sala 402 - Bloco de Mecânica"
+				},
+				{
+					"titulo":"Oficina: Introdução ao GIMP - software livre de edição de imagens",
+					"palestrante":"Prof. Rafael Almeida Brochado e Prof. Me. Wilton Moreira Ferraz Júnior (IFSP Itapetininga)",
+					"local":"Laboratório F - Bloco de Informática"
+				},
+				{
+					"titulo":"Sorteiro de Brindes",
+					"palestrante":"",
+					"local":"Laboratório F - Bloco de Informática"
+				},
+				{
+					"titulo":"Sistema Construtivo Inovador",
+					"palestrante":"Cerâmica Vasatex",
+					"local":"Sala 516 – Bloco de Edificações"
+				},
+				{
+					"titulo":"As Novas Tecnologias em Construção Civil: os objetivos e as metas para o futuro",
+					"palestrante":"Prof. Me. Engº Ambiental Paulo Paiva Oliveira Leite Dyer",
+					"local":"Sala 517 – Bloco de Edificações"
+				}
+			],
+			"20:30 - 22:00":[
+				{
+					"titulo":"Problemas e fenômenos naturais na perspectiva da modelagem matemática",
+					"palestrante":"Profa. Me. Carlos Frank Lima dos Santos (Unesp Botucatu)",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"O uso da resistividade elétrica do concreto para a avaliação do risco de corrosão e do desempenho das estruturas",
+					"palestrante":"Prof. Me. Gustavo José Lauer Coppio (IFSP-Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"
+				},
+				{
+					"titulo":"A tecnologia da indústria de aço brasileira",
+					"palestrante":"VILLARES METALS",
+					"local":"Auditório - Bloco de Mecânica"
+				},
+				{
+					"titulo":"Microscopia Eletrônica de Varredura e Caracterização Química de Materiais (MEV / EDS)",
+					"palestrante":"HITACHI DO BRASIL",
+					"local":"Sala 402 - Bloco de Mecânica"
+				}
+			]	
+		}
+	],
+	"17-de-outubro":[
+		{
+			"10:00 - 12:00":[{
+				"titulo":"IV Mostra de Robótica",
+				"palestrante":"",
+				"local":"Salas 65 e 66"
+
+			},
+			{
+				"titulo":"Introdução ao Pentest",
+				"palestrante":"Prof. Adriano Elias Daniel (IFSP-Itapetininga)",
+				"local":"Auditório de Informática"				
+			},
+			{
+				"titulo":"Sorteio de Brindes",
+				"palestrante":"",
+				"local":"Salas 65 e 66"				
+			}
+			],
+			"13:30 - 15:30":[{
+				"titulo":"IV Mostra de Robótica",
+				"palestrante":"",
+				"local":"Salas 65 e 66"				
+			},
+			{
+				"titulo":"Placa fotovoltaica",
+				"palestrante":"Prof. Eduardo Ozi (IFSP Itapetininga)",
+				"local":"Sala 516 – Bloco de Edificações"				
+			},
+			{
+				"titulo":"Planetário Container: uma proposta de baixo custo para divulgação de Astronomia",
+				"palestrante":"Rodrigo Felipe Raffa (UFSCar Sorocaba)",
+				"local":"Sala 67"				
+			},
+			{
+				"titulo":"Minicurso: Teórico e Prático de operação de Mini Carregadeira – CASE",
+				"palestrante":"Profa. Me. Adriana Marques (IFSP Itapetininga)",
+				"local":"Canteiro de Obras"				
+			},
+			{
+				"titulo":"Show da Física",
+				"palestrante":"Giovane Veiga (IFSP-Itapetininga)",
+				"local":"Sala 61"				
+			}],
+			"15:30 - 17:00":[
+				{
+					"titulo":"IV Mostra de Robótica",
+					"palestrante":"",
+					"local":"Salas 65 e 66"				
+				},
+				{
+					"titulo":"Sustentabilidade",
+					"palestrante":"Prof. Vítor Pires (IFSP Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"				
+				},
+				{
+					"titulo":"Energias Renováveis",
+					"palestrante":"Sr. Antônio Celso",
+					"local":"Sala 517 – Bloco de Edificações"				
+				}
+			],
+			"19:00 - 20:30" : [
+				{
+					"titulo":"Introdução à Internet das Coisas com Raspberry Pi",
+					"palestrante":"Prof. Anderson Bernardo de Almeida (IFSP Itapetininga)",
+					"local":"Sala 66"
+
+				},
+				{
+					"titulo":"Sorteio de brindes",
+					"palestrante":"",
+					"local":"Sala 66"
+
+				},
+				{
+					"titulo":"Placa fotovoltaica",
+					"palestrante":"Prof. Eduardo Ozi (IFSP Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"
+
+				},
+				{
+					"titulo":"Minicurso: As potencialidades do jogo no ensino de Matemática: jogos com materiais reciclados",
+					"palestrante":"Prof. Dr. Guilherme Aldolfatto Libanori (IFSP Matão)",
+					"local":"Auditório - Bloco de Informática"
+
+				},
+				{
+					"titulo":"Minicurso: Explorando as funcionalidades de uma calculadora científica",
+					"palestrante":"Prof. Me. Matheus Moreira Costa (IFSP Itapetininga)",
+					"local":"Sala 61"
+
+				},
+				{
+					"titulo":"Minicurso: As praticidades da edição de textos e equações no Latex",
+					"palestrante":"Prof. Dr. Vicente Pereira de Barros (IFSP Itapetininga)",
+					"local":"Laboratório B"
+
+				},
+				{
+					"titulo":"Agronegócio como fonte de Desenvolvimento Regional e sua Mecanização",
+					"palestrante":"Eng. Eduardo Roque Antonio Junior (CNH Industrial)",
+					"local":"Auditório de Mecânica"
+
+				},
+				{
+					"titulo":"Microdureza de Materiais e sua aplicação na indústria Metal Mecânica",
+					"palestrante":"SHIMADZU DO BRASIL",
+					"local":"Sala 402 - Bloco de Mecânica"
+
+				},
+				{
+					"titulo":"Energias Renováveis",
+					"palestrante":"Sr. Antônio Celso",
+					"local":"Sala 517 – Bloco de Edificações"				
+				}
+			],
+			"20:30 - 22:00" : [
+				{
+					"titulo":"Minicurso: As potencialidades do jogo no ensino de Matemática: jogos com materiais reciclados",
+					"palestrante":"Prof. Dr. Guilherme Aldolfatto Libanori (IFSP Matão)",
+					"local":"Auditório de Informática"
+
+				},
+				{
+					"titulo":"Minicurso: Explorando as funcionalidades de uma calculadora científica",
+					"palestrante":"Prof. Me. Matheus Moreira Costa (IFSP Itapetininga)",
+					"local":"Sala 61"
+
+				},
+				{
+					"titulo":"Minicurso: As praticidades da edição de textos e equações no Latex",
+					"palestrante":"Prof. Dr. Vicente Pereira de Barros (IFSP Itapetininga)",
+					"local":"Laboratório B"
+
+				},
+				{
+					"titulo":"Sustentabilidade",
+					"palestrante":"Prof. Vítor Pires (IFSP Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"
+
+				},
+				{
+					"titulo":"A carreira de um engenheiro recém formado: transição do ambiente de universidade para a realidade de uma empresa do setor privado",
+					"palestrante":"Sr. José Henrique Caixeta (DURATEX)",
+					"local":"Auditório de Mecânica"
+
+				}
+			]
+		}
+
+	],
+	"18-de-outubro" :[
+		
+		{
+			"10:00 - 12:00":[{
+				"titulo":"Indústria 4.0",
+				"palestrante":"Prof. Me. Marcus Vinicius Branco (FATEC Itapetininga)",
+				"local":"Auditório - Bloco de Informática"
+
+			},
+			{
+				"titulo":"Sorteio de Brindes",
+				"palestrante":"",
+				"local":"Auditório - Bloco de Informática"				
+			}
+			],
+			"13:30 - 15:30":[{
+				"titulo":"Oficina: Conhecendo a Linguagem Python",
+				"palestrante":"Prof. Dr. Carlos Henrique da Silva Santos (IFSP Itapetininga)",
+				"local":"Laboratório D - Bloco de Informática"				
+			},
+			{
+				"titulo":"Geossintéticos",
+				"palestrante":"Profa. Me. Jaqueline Feitosa (IFSP Itapetininga)",
+				"local":"Sala 516 – Bloco de Edificações"				
+			},
+			{
+				"titulo":"Minicurso: Teórico e Prático de operação de Mini Carregadeira – CASE",
+				"palestrante":"Profa. Me. Adriana Marques (IFSP Itapetininga)",
+				"local":"Canteiro de Obras"				
+			}],
+			"15:30 - 17:00":[{
+				"titulo":"Oficina: Conhecendo a Linguagem Python",
+				"palestrante":"Prof. Dr. Carlos Henrique da Silva Santos (IFSP Itapetininga)",
+				"local":"Laboratório D - Bloco de Informática"				
+			},
+			{
+				"titulo":"Sorteio de Brindes",
+				"palestrante":"",
+				"local":"Auditório - Bloco de Informática"				
+			},
+			{
+				"titulo":"Geossintéticos",
+				"palestrante":"Profa. Me. Jaqueline Feitosa (IFSP Itapetininga)",
+				"local":"Sala 516 – Bloco de Edificações"				
+			},
+			{
+				"titulo":"Sustentabilidade",
+				"palestrante":"Prof. Vítor Pires (IFSP Itapetininga)",
+				"local":"Sala 517 – Bloco de Edificações"				
+			},
+			{
+				"titulo":"Minicurso: Teórico e Prático de operação de Mini Carregadeira – CASE",
+				"palestrante":"Profa. Me. Adriana Marques (IFSP Itapetininga)",
+				"local":"Canteiro de Obras"				
+			}],
+			"19:00 - 20:30" : [
+				{
+					"titulo":"Minicurso: Conhecendo a plataforma Khan Academy",
+					"palestrante":"Deivison Shindi Takatu",
+					"local":"Laboratório B"
+
+				},
+				{
+					"titulo":"Sistemas estocásticos, otimização e aplicações",
+					"palestrante":"Prof. Dr. Eduardo Fontoura Costa (USP São Carlos)",
+					"local":"Auditório de Informática"
+
+				},
+				{
+					"titulo":"Introdução ao Pentest",
+					"palestrante":"Prof. Adriano Elias Daniel (IFSP-Itapetininga)",
+					"local":"Sala 66"
+
+				},
+				{
+					"titulo":"Sorteio de Brindes",
+					"palestrante":"",
+					"local":"Sala 66"
+
+				},
+				{
+					"titulo":"Combate a incêndio -Corpo de Bombeiros",
+					"palestrante":"Profa. Me. Jaqueline Feitosa (IFSP Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"
+
+				},
+				{
+					"titulo":"A importância da escolha da ferramenta de corte no processo de Usinagem",
+					"palestrante":"Sr. Fábio Ricardo (SECOTOOLS)",
+					"local":"Auditório de Mecânica"
+
+				},
+				{
+					"titulo":"Colheita Florestal Mecanizada",
+					"palestrante":"Fernando Zancan Pissinin (DURATEX)",
+					"local":"Sala 402 - Bloco de Mecânica"
+
+				}
+			],
+			"20:30 - 22:00" : [
+				{
+					"titulo":"Matemática e Literatura – uma experiência interdisciplinar",
+					"palestrante":"Profa. Dra. Diana Patrícia Ferreira de Santana (IFPR Ivaiporã)",
+					"local":"Auditório de Informática"
+
+				},
+				{
+					"titulo":"Geossintéticos",
+					"palestrante":"Profa. Me. Jaqueline Feitosa (IFSP Itapetininga)",
+					"local":"Sala 516 – Bloco de Edificações"
+
+				},
+				{
+					"titulo":"A importância da escolha da ferramenta de corte no processo de Usinagem",
+					"palestrante":"Sr. Fábio Ricardo (SECOTOOLS)",
+					"local":"Auditório de Mecânica"
+
+				}
+			]
+		}
+	],
+	"19-de-outubro":[
+		{
+			"15:30 - 17:00":[{
+				"titulo":"Sistema de Proteção contra descargas atmosféricas",
+				"palestrante":"Eng. Vitor Gardiman",
+				"local":"Sala 516 – Bloco de Edificações"				
+			}],
+			"19:00 - 20:30" : [
+				{
+					"titulo":"Atividade: Gincana Matemática",
+					"palestrante":"Alunos do curso de licenciatura em Matemática do IFSP Itapetininga",
+					"local":"Auditório de Informática"
+
+				},
+				{
+					"titulo":"EPI e EPC Equipamentos de proteção para Eletricidade",
+					"palestrante":"Fabio Valente (DURATEX)",
+					"local":"Auditório de Mecânica"
+
+				},
+				{
+					"titulo":"Sistemas Fotovoltaicos",
+					"palestrante":"Sr. Marcos Coelho (WEG DO BRASIL)",
+					"local":"Sala 402 - Bloco de Mecânica"
+
+				},
+				{
+					"titulo":"Sistema de Proteção contra descargas atmosféricas",
+					"palestrante":"Eng. Vitor Gardiman",
+					"local":"Sala 516 – Bloco de Edificações"
+
+				},
+				{
+					"titulo":"Impermeabilizantes e aditivos para concreto e argamassa",
+					"palestrante":"Sr. Ivan Lima",
+					"local":"Sala 517 – Bloco de Edificações"
+
+				}
+			],
+			"20:30 - 22:00" : [
+				{
+					"titulo":"Atividade: Gincana Matemática",
+					"palestrante":"Alunos do curso de licenciatura em Matemática do IFSP Itapetininga",
+					"local":"Auditório de Informática"
+
+				},
+				{
+					"titulo":"Programa SEBRAE - #BeTheBossItape Premiação da Etapa Interna do IFSP",
+					"palestrante":"",
+					"local":"Auditório de Mecânica"
+
+				}
+			],
+			"22:00" : [
+				{
+					"titulo":"Encerramento II SeMatIF",
+					"palestrante":"Prof Me. Paulo Henrique C. A. da Cruz (IFSP Itapetininga)",
+					"local":"Auditório de Informática"
+
+				},
+				{
+					"titulo":"Encerramento II SEIFI",
+					"palestrante":"Prof. Dr. Mário Nunes (IFSP-Itapetininga)",
+					"local":"Auditório de Mecânica"
+
+				}
+			]
+			
+		}
+	]
+}

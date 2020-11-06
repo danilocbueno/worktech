@@ -1,0 +1,14 @@
+{
+    "name": "WorkTech Itapê",
+    "short_name": "WorkTech Itapê",
+    "icons": [{
+        "src": "img/pwa_logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "start_url": "index.html",
+    "theme_color": "#09C4BF",
+    "background_color": "#09C4BF",
+    "display": "standalone",
+    "orientation": "portrait"
+}

@@ -1,0 +1,447 @@
+{
+	"16-de-outubro":[
+		{
+			"19:15 - 20-15":[
+				{
+					"titulo":"A importancia do Estágio como Diferencia Profissional",
+					"palestrante":"Sidney Vieira",
+					"local":"Auditório de Mecânica"
+				}
+			]
+		}
+	],
+	"17-de-outubro":[
+		{
+			"9:00 - 10:00":[{
+				"titulo":"Abertura I EREFis",
+				"palestrante":"Prof. Dr. Emanuel Benedito de Melo",
+				"local":"Auditório de Informática"
+
+			},
+			{
+				"titulo":"Aprendizagem e Motivação: alimentos para o cérebro",
+				"palestrante":"Prof. Dr. Paulo Rogério Massoni",
+				"local":"Auditório de Informática"				
+			}
+		],
+
+			"10:00 - 10:15":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+
+			],
+			"10:15 - 12:00":[
+				{
+					"titulo":"Tratamento a Plasma no ajuste das Propriedades Físicas da Superfície de Materiais",
+					"palestrante":"Prof. Dra. Elidiane Cipriano Rangel",
+					"local":"Auditório de Informática"
+				}
+			],
+			"12:00 - 13:30":[
+				{
+					"titulo":"Almoço",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"13:30 - 15:00" : [
+				{
+					"titulo":"Oficina: Instrumentos Musicais no Ensino de Física",
+					"palestrante":"Prof. Dr. Jonny Nelson ",
+					"local":"Sala 62"
+
+				}
+			],
+			"15:00 - 15:15":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"15:15 - 17:00":[
+				{
+					"titulo":"Oficina: Óptica e Instrumentos Ópticos",
+					"palestrante":"Prof. Dr. Jonny Nelson",
+					"local":"Sala 62"
+				}
+			],
+			"17:00 - 19:00":[
+				{
+					"titulo":"Jantar",
+					"palestrante":"",
+					"local":""	
+				}
+			],
+			"19:00 - 19:15":[
+				{
+					"titulo":"Abertura I SEIFI",
+					"palestrante":"Prof. Dr. Mário Nunes",
+					"local":"Auditório de Mecânica"	
+				},
+				{
+					"titulo":"Abertura I SEMatIFI",
+					"palestrante":"Prof. Me. Paulo Henrique Correia A. da Cruz",
+					"local":"Auditório de Informática"	
+				}
+
+			],
+			"19:15 - 20:15":[
+				{
+					"titulo":"Fratura dos Metais",
+					"palestrante":"Leonardo Taborda Sandor",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Matemática e a Filosofia",
+					"palestrante":"Prof. Dr. Hamilton Piva",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Dois Casos Históricos de Contaminação Ambiental nos EUA: love canal e times beach",
+					"palestrante":"Prof. Gustavo José Lauer Coppio",
+					"local":"Sala 517 - Edificações"
+				},
+				{
+					"titulo":"Cultura Maker no Ensino de Ciências",
+					"palestrante":"Prof. Me. Élcio de Souza Lopes",
+					"local":"Sala 516 - Edificações"
+				}
+			],
+			"20:15 - 20:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"20:30 - 22:00":[
+				{
+					"titulo":"Modelagem Matemática no Planejamento Energético: um modelo de insumo produto",
+					"palestrante":"Prof. Dr. Fabiano Ionta",
+					"local":"Auditório de Informática"	
+				},
+				{
+					"titulo":"Caracterização de Materiais Metálicos",
+					"palestrante":"Roger Oppelt",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Resistência à Corrosão do Aço-Carbono Tratado a Plasma",
+					"palestrante":"Dra. Rita Cipriano Rangel",
+					"local":"Sala 516 - Edificações"
+				}
+			]
+
+		}
+
+	],
+	"18-de-outubro" :[
+		
+		{
+			"9:00 - 10:00":[
+				{
+					"titulo":"Fronteiras da Nanotecnologia",
+					"palestrante":"Prof. Dr. Alberto Moreau ",
+					"local":"Sala 517 Edificações"
+				},
+				{
+					"titulo":"Células a Combustível: uma forma alternativa de obtenção de energia",
+					"palestrante": "Prof. Dr. Emanuel Benedito de Melo",
+					"local":"Auditório Informática"
+				}
+			],
+			"10:00 - 10:15":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+
+			],
+			"10:15 - 12:00":[
+				{
+					"titulo":"Aprendizagem Baseada em Casos",
+					"palestrante":" Prof. Dr. Valter Montanher",
+					"local":"Sala 517 Edificações"
+				},
+				{
+					"titulo":"Utilização de Modelos no Ensino de Física",
+					"palestrante": "Prof. Dr. Luiz Augusto Alves",
+					"local":"Auditório de Informática"
+				}
+			],
+			"12:00 - 13:30":[
+				{
+					"titulo":"Almoço",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"13:30 - 15:15":[
+				{
+					"titulo":"Mesa Redonda: Entrelaçando Saberes: a matemática está em tudo",
+					"palestrante":"Dra. Carolina Mandarini, Profa. Dra. Paula Garcia Meirelles Gracci, Prof. Me Paulo Henrique Cruz, Prof. Dr. Ivan Fortunato, Profa. Me Regiane Zornetta",
+					"local":"Auditório de Informática"
+				},
+				{
+					"titulo":"Dois casos históricos de contaminação ambiental nos EUA: Love canal e times beach",
+					"palestrante":"Prof. Gustavo José Lauer Coppio",
+					"local":"Sala 517 - Edificações"
+				},
+				{
+					"titulo":"Oficina: Experimentos de Termodinâmica nas aulas de Física",
+					"palestrante":"Prof. Dr. Jonny Nelson",
+					"local":"Sala 62"
+				}
+			],
+			"15:15 - 15:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"15:30 - 17:00":[
+				{
+					"titulo":"A evolução das telhas no Brasil",
+					"palestrante":"João Aparecido Estevão",
+					"local":"Sala 517- Edificações"
+				},
+				{
+					"titulo":"Oficina: As cores e os Fenômenos da Natureza: experimentos coloridos",
+					"palestrante":"Prof. Dr. Jonny Nelson",
+					"local":"Sala 62"
+				}
+			],
+			"17:00 - 19:00":[
+				{
+					"titulo":"Jantar",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"19:15 - 20:15":[
+				{
+					"titulo":"Carros de Eficiência Energética",
+					"palestrante":"Prof. Dr. Fábio Raia e Prof. Dr.  Jean Pierre Garcia",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Desafios e Entraves na Formação de Professores que Ensinam Matemática",
+					"palestrante":"Prof. Dra. Carla Cristina Pompeu",
+					"local":"Auditório de Informática"
+				},
+				{	
+					"titulo":"A Evolução das Telhas no Brasil",
+					"palestrante":"João Aparecido Estevão",
+					"local":"Sala 517- Edificações"
+				},
+				{
+					"titulo":"Mesa Redonda: Popularização e Socialização da Ciência: desafios e perspectivas",
+					"palestrante":"Prof. Dr. Emerson Gomes, Prof. Dr. Jonny Nelson Teixeira, e Prof. Dr. Mikiya Muramatsu",
+					"local":"Sala 516 - Edificações"
+				}
+			],
+			"20:15 - 20:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"20:30 - 22:00":[
+				{
+					"titulo":"Inteligência Emocional",
+					"palestrante":"André Ariovaldo",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Mesa Redonda: A Atuação Profissional do Licenciado em Matemática no Mundo Contemporâneo",
+					"palestrante":"Prof. Dra. Carla Cristina Pompeu, Prof. Dr. Vinícius de Castro Nunes de Siqueira, Prof. Me. Paulo Henrique Correia Araújo da Cruz",
+					"local":"Auditório de Informática"
+				}
+			],
+			"22:00 - 22:15":[
+				{
+					"titulo":"Encerramento I EREFis",
+					"palestrante":"Prof. Dr. Emanuel Benedito de Melo",
+					"local":"Auditório de Informática"
+				}
+			]
+
+		}
+	],
+	"19-de-outubro":[
+		{
+			"13:30 - 15:15":[
+				{
+					"titulo":"Administração Contratual em Grandes Obras",
+					"palestrante":"Eng. Marco Antônio Nardin França",	
+					"local": "Sala 517 - Edificações"
+				},
+				{
+					"titulo":"III Mostra Robótica IFSP",
+					"local":"Salas 65 e 66",
+					"palestrante":""
+				}
+			],
+			"15:15 - 15:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"15:30 - 17:00":[
+				{
+					"titulo":"Acessibilidade em Edificações - ABNT NBR 9050:2015",
+					"palestrante":"Cristiane de Moraes Gomes",
+					"local":"Sala 517 - Edificações"
+				},
+				{
+					"titulo":"III Mostra Robótica IFSP",
+					"local":"Salas 65 e 66",
+					"palestrante":""
+				}
+			],
+			"17:00 - 19:00":[
+				{
+					"titulo":"Jantar",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"19:15 - 20:15":[
+				{
+					"titulo":"Indústria 4.0",
+					"palestrante":"Sander Gabaldo",
+					"local":"Auditório de Mecânica"
+				},
+				{
+					"titulo":"Desafios de Raciocínio de Lógica",
+					"palestrante":"Prof. Victor Vaz Pavani e Prof. Me. Matheus Costa",
+					"local":"Auditório de Informática"
+				}
+			],
+			"20:15 - 20:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				}
+			],
+			"20:30 - 22:00":[
+				{
+					"titulo":"Os Avanços do CNC como Parte da Indústria 4.0",
+					"local":"Auditório de Mecânica",
+					"palestrante":"Gustavo Marino "
+				},
+				{
+					"titulo":"Desafios de Raciocínio de Lógica",
+					"palestrante":"Desafios de Raciocínio de Lógica",
+					"local":"Auditório de Informática"
+				}
+			]
+		}
+	],
+	"20-de-outubro":[
+		{
+			"13:30 - 15:00":[
+				{
+					"local": "Auditório de Informática",
+					"titulo":"A Matemática na Física ou a Física na Matemática?",
+					"palestrante":"Prof. Dr. Vicente Pereira de Barros"
+				},
+				{
+					"local":"Salas 65 e 66",
+					"titulo":"III Mostra Robótica IFSP",
+					"palestrante":""
+				}
+			],
+			"15:30 - 17:00":[
+				{
+					"local":"Salas 65 e 66",
+					"titulo":"III Mostra Robótica IFSP",
+					"palestrante":""
+				}
+			],
+			"17:00 - 19:00":[
+				{
+					"local":"",
+					"palestrante":"",
+					"titulo":"Jantar"
+				}
+			],
+			"19:15 - 20:15":[
+				{
+					"local":"Auditório de Mecânica",
+					"titulo":"Conhecendo Válvulas Wireless e Instrumentação com a Émerson Process",
+					"palestrante":"Leonardo Fávero"
+				},
+				{
+					"local":"Sala 517- Edificações",
+					"titulo":"A Evolução das Telhas no Brasil",
+					"palestrante":"João Aparecido Estevão"
+				},
+				{
+					"local":"Auditório de Informática",
+					"titulo":"Minicurso: Ensino de Matemática a partir de Materiais Concretos",
+					"palestrante":"Prof. Dr. Guilherme Andolfatto Libanori"
+				},
+				{
+					"local":"Laboratório C",
+					"titulo":"Oficina: Matemática com o Software Scratch",
+					"palestrante":"Prof. Me. Wilton Moreira Ferraz Júnior"
+				},
+				{
+					"local":"Laboratório F",
+					"titulo":"Minicurso: introdução ao Geogebra",
+					"palestrante":"Prof. Dr. Carlos Alberto Sato"
+				}
+			],
+			"20:15 - 20:30":[
+				{
+					"titulo":"Intervalo",
+					"palestrante":"",
+					"local":""
+				},
+				{
+					"local":"Laboratório C",
+					"titulo":"Oficina: Matemática com o Software Scratch",
+					"palestrante":"Prof. Me. Wilton Moreira Ferraz Júnior"
+				},
+				{
+					"local":"Laboratório F",
+					"titulo":"Minicurso: introdução ao Geogebra",
+					"palestrante":"Prof. Dr. Carlos Alberto Sato"
+				}
+			],
+			"20:30 - 22:00":[
+				{
+					"local":"Auditório de Informática",
+					"titulo":"Minicurso: Ensino de Matemática a partir de Materiais Concretos",
+					"palestrante":"Prof. Dr. Guilherme Andolfatto Libanori"
+				}
+
+			],
+			"22:00":[
+				{
+					"local":"Auditório de Mecânica",
+					"titulo":"Encerramento I SEIFI",
+					"palestrante":"Prof. Dr. Mário Nunes"
+				},
+				{
+					"local":"Auditório de Informática",
+					"titulo":"Encerramento I SEMatIFI",
+					"palestrante":"Prof. Me. Paulo Henrique C. A. da Cruz "
+				}
+
+			]
+		}
+	]
+
+}
